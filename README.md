@@ -1,2 +1,6 @@
 # COURSE-FOR-EXCEL
-This repository have the data of what I learn in excel
+## Day : 1
+- Row Operation
+- Column Operation
+- Table Formation
+- Arithmetic Operations
