@@ -21,3 +21,6 @@
 - Drop-down list
 
 ![Capture](https://github.com/user-attachments/assets/05547c5f-ee55-4a80-82bc-e4c0016764dc)
+
+## Day : 6
+- Data cleaning
